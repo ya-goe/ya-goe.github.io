@@ -7,6 +7,13 @@
   pdf: https://drive.google.com/file/d/19M_6LAoperLfLFkP582Uyk_1xCCqR1UE/view
   youtube: https://www.youtube.com/watch?v=E8I10yAKFHs
 
+- id: inc-psr
+  title: "Incremental Poisson Surface Reconstruction"
+  venue: HiWi, StachnissLab, Uni Bonn
+  description: "Making poisson surface reconstruction incremental by using solution from previous frame as dirichlet boundary condition in the laplace equation."
+  image: inc-psr.png
+  image_mouseover: inc-psr.mp4
+
 - id: bebop-nav
   title: "Bebop Navigation in Real Life"
   venue: IIIT Hyderabad
