@@ -1,0 +1,39 @@
+yash:
+  first_name: Yash
+  last_name: Goel
+  website: https://ya-goe.github.io/
+  is_me: true
+narunas:
+  first_name: Narunas
+  last_name: Vaskevicius
+  website: https://scholar.google.com/citations?user=U3KSTwkAAAAJ&hl=en
+luigi:
+  first_name: Luigi 
+  last_name: Palmieri
+  website: https://palmieri.github.io/
+nived:
+  first_name: Nived
+  last_name: Chebrolu
+  website: https://scholar.google.de/citations?user=ZKuNQGsAAAAJ&hl=en
+kai:
+  first_name: Kai O.
+  last_name: Arras
+  website: https://scholar.google.de/citations?user=Nz1kn-8AAAAJ&hl=en
+cyrill:
+  first_name: Cyrill
+  last_name: Stachniss
+  website: https://www.ipb.uni-bonn.de/people/cyrill-stachniss/
+jyotish:
+  first_name: P.S. Naga
+  last_name: Jyotish
+  website: 
+bhargav:
+  first_name: A.V.S. Sai
+  middle_name: Bhargav
+  last_name: Kumar
+  website:
+madhava:
+  first_name: K. Madhava 
+  last_name: Krishna
+  website: https://faculty.iiit.ac.in/~mkrishna/
+

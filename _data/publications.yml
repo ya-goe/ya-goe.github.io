@@ -1,0 +1,39 @@
+- id: sem-mpc
+  title: "Semantically Informed MPC for Context-Aware Robot Exploration"
+  venue: IROS 2023, IROS WS 2022
+  description: "Semantics informed costmap prediction for object goal navigation using MPC."
+  arxiv: 2210.08952
+  pdf: https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/goel2023iros.pdf
+  image: sem-mpc.png
+  image_mouseover: sem-mpc-v2.mp4
+  youtube: https://youtu.be/mvPddkWAiDA
+  authors:
+    - yash
+    - narunas
+    - luigi
+    - nived
+    - kai
+    - cyrill
+- id: pivo
+  title: "PIVO: Probabilistic Inverse Velocity Obstacle for Navigation under Uncertainty"
+  venue: ROMAN 2019
+  description: "Probabilistic version of IVO using chance constraints for taking uncertainty into account."
+  html: https://ieeexplore.ieee.org/abstract/document/8956406
+  image: pivo.png
+  authors:
+    - jyotish
+    - yash
+    - bhargav
+    - madhava
+
+- id: ivo
+  title: "IVO: Inverse Velocity Obstacles for Real Time Navigation"
+  venue: AIR 2019
+  description: "Inverse version of Velocity Obstacles with ego-frame formulation shown for real-time and mult-agent setting."
+  arxiv: 1905.01438
+  image: ivo.png
+  authors:
+    - jyotish
+    - yash
+    - bhargav
+    - madhava 

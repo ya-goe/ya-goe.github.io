@@ -1,0 +1,54 @@
+- id: soc-mpc
+  title: "Social robot navigation"
+  venue: Course Project, Uni Bonn
+  description: "Compared human motion prediction techniques - SocialGAN and maximum entropy method with <code>ROS</code> implementation. Real life implementation on KUKA youbot."
+  image: soc-mpc.png
+  image_mouseover: soc-mpc-v2.mp4
+  pdf: https://drive.google.com/file/d/19M_6LAoperLfLFkP582Uyk_1xCCqR1UE/view
+  youtube: https://www.youtube.com/watch?v=E8I10yAKFHs
+
+- id: inc-psr
+  title: "Incremental Poisson Surface Reconstruction"
+  venue: HiWi, StachnissLab, Uni Bonn
+  description: "Making poisson surface reconstruction incremental by using solution from previous frame as dirichlet boundary condition in the laplace equation."
+  image: inc-psr.png
+  image_mouseover: inc-psr.mp4
+
+- id: bebop-nav
+  title: "Bebop Navigation in Real Life"
+  venue: IIIT Hyderabad
+  description: "Implementing dynamic obstacle avoidance on Bebop drone using collision cone constraint. This was done for both holonomic and non-holonomic settings."
+  image: bebop-nav.png
+  image_mouseover: bebop-nav.mp4
+  youtube: https://www.youtube.com/watch?v=0fk0RPp73UE
+
+- id: learn-mpc
+  title: "Learning MPC controller"
+  venue: IIIT Hyderabad
+  description: "Investigated learning MPC controller. Using input of future desired states and the current state, control commands for positional tracking are generated. Simulations were done in <code>ROS</code> using <code>RotorS</code>  simulator."
+  image: learn-mpc.png
+  image_mouseover: learn-mpc.mp4
+
+- id: rl-nav
+  title: "Depth based navigation using RL"
+  venue: Bachelor thesis, IIT Roorkee
+  description: "Learning control policy using DQN for navigation of a quadcopter in <code>AirSIM</code> using depth images to reach the destination point. We trained the policy for two cases: 2D and 3D action space to compare performance. Published at IEEE AUTEEE."
+  image: rl-nav.png
+  image_mouseover: rl-nav.mp4
+  html: https://ieeexplore.ieee.org/document/9033244
+  youtube: https://www.youtube.com/watch?v=3HySnVXyLFY
+
+- id: fsae
+  title: "Formula student electric car"
+  venue: IIT Roorkee
+  description: "Involved in the design and fabrication of our self designed formula style electric race car as Powertrain Head for 2017 car. Introduced the vehicle dynamics team leading the vehicle dynamics model design, active slip yaw controller, etc."
+  image: fsae.jpg
+  image_mouseover: fsae_after.mp4
+  youtube: https://www.youtube.com/watch?v=KlYoQ3vBIN4
+
+- id: h2-fuel
+  title: "Hydrogen fuel cell modeling"
+  venue: Internship, TATA Motors Research Center Bangalore
+  description: "The work involved learning about modelling systems, simulating and designing controller for various sub-systems of a fuel cell vehicle."
+  image: h2-fuel.png
+  pdf: https://drive.google.com/file/d/1XRUzs_zOVsMAxC2frRLH15_kd77dZKQP/view
